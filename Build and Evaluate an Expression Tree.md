@@ -22,8 +22,7 @@ To write a Python program to build and evaluate the given Expression tree.
 ## PROGRAM:
 
 ```
-Name:Pavithra.s
-Reg No:212222060174
+
 class Node:
     def __init__(self, val, left=None, right=None):
         self.val = val
